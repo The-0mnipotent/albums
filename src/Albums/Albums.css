@@ -1,0 +1,13 @@
+.container {
+  width: 100px;
+  height: 180px;
+  margin: 10px;
+  padding: 5px;
+  border: solid 2px red;
+}
+
+.title,
+.userId {
+  font-weight: 800;
+  border: solid 1px blue;
+}
